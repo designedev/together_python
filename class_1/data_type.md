@@ -341,3 +341,5 @@ person = dict([("name","김사람"),("age",73),("height",192),("weight",73
 person = dict({'name' : '김사람', 'age' : 73, 'height' : 192, 'weight' : 33})
 ```
 
+> # 다음 시간에는 제어문을 공부해 봅시다.
+> 
