@@ -24,7 +24,7 @@ def recursive_test(count):
                 recursive_test(count-1)
 ```
 
-- 재귀 호출로 팩토리얼 계산하기
+- 재귀 호출로 팩토리얼 계산하기.
 계승은 [이것](https://ko.wikipedia.org/wiki/%EA%B3%84%EC%8A%B9)입니다..
 ```
 def factorial(num):
